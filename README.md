@@ -89,10 +89,11 @@ Le frontend sur `http://localhost:5173`
 - CORS pour les requêtes cross-origin
 
 ## 👨‍💻 Auteur
-wa.me/237683058178
-Créé pour un projet concours pour la ville de Yaoundé
 
+Créé pour un projet concours pour la ville de Yaoundé
+[limule Hinugera](wa.me/237683058178)
 ---
 
 Bon développement ! 🎉
 #
+
